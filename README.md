@@ -27,5 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
-# my-website
-# my-website
